@@ -8,3 +8,4 @@ public class DoublyNode {
 		this.data = data;
 	}
 }
+ 
